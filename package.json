@@ -1,0 +1,20 @@
+{
+  "name": "strip-css-media-queries",
+  "description": "Strip media queries from a css string",
+  "author": "John Otander",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": "johnotander/strip-css-media-queries",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*"
+  }
+}
