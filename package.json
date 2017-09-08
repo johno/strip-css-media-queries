@@ -2,7 +2,7 @@
   "name": "strip-css-media-queries",
   "description": "Strip media queries from a css string",
   "author": "John Otander",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index.js",
   "files": [
     "index.js"
